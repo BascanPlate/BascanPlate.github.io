@@ -1,0 +1,32 @@
+#main {
+    border: solid 10px darkgrey;
+    background-color: lightgrey;
+    padding: 10px 10px 10px 10px;
+    font-family: 'Courier New';
+}
+
+#title {
+    border: solid 5px darkgray;
+}
+
+#shop {
+    border: solid 8px rgb(63, 63, 63);
+    background-color: rgb(107, 107, 107);
+    padding: 0 10px 10px 10px;
+    color: lightgray;
+    font-family: 'Courier New';
+}
+
+body {
+    background-color: gray;
+}
+
+#game {
+    border: solid 12px black;
+    padding: 15px 15px 15px 15px;
+}
+
+.details {
+    background-color: rgb(216, 216, 216);
+    padding: 5px 5px 5px 5px;
+}
