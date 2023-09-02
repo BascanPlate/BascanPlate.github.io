@@ -30,3 +30,12 @@ body {
     background-color: rgb(216, 216, 216);
     padding: 5px 5px 5px 5px;
 }
+
+#downloadLink {
+    border: solid 3px darkblue;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    padding: 0 20px 0 20px;
+    margin-top: 20px;
+}
